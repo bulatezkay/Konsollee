@@ -6,7 +6,7 @@ namespace Konsollee
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Добрый день группа 2024 и 2024к");
+            Console.WriteLine("Добрый день группа 2125 и2125к", оставьте свой отзы в стажировке");
         }
     }
 }
